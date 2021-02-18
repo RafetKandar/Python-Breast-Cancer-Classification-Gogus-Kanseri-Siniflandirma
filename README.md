@@ -4,7 +4,7 @@
 ### tr : Göğüs Kanseri Sınıflandırma --> Knn algoritmasını kullanarak göğüs kanseri tanısı konulan kişilerde, tümörün iyi huylu mu - kötü huylu mu olduğunu tespit etmektedir. Kullandığımız veri setine  <a href="https://www.kaggle.com/uciml/breast-cancer-wisconsin-data">buradan</a> ulaşabilirsiniz
 
 <ul>
-  <li> <h3>Benign and Malignant tumor (iyi huylu ve kötü huylu tümör)</h3> </li>
+  <li> <h3>Benign and Malignant tumor (iyi huylu ve kötü huylu tümör)</h3> </li> </br>
 
 <img src = "img/Malignant_or_Benign.PNG" width=500 height=450></img>
 
