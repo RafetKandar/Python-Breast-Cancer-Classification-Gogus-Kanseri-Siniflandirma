@@ -14,6 +14,6 @@
   
   <li> <h3>We look at the distribution of benign and malignant tumors before classification. (sınıflandırma öncesi iyi huylu ve kötü huylu tümör dağılımına göz atıyoruz)</h3> </li> </br>
   
-  <img src = "img/scatter_PCA.PNG" width=400 height=550></img>
-  <img src = "img/after_PCA.PNG" width=400 height=550></img>
+  <img src = "img/scatter_PCA.PNG" width=420 height=450></img>
+  <img src = "img/after_PCA.PNG" width=420 height=450></img>
 </ul>
