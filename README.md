@@ -12,7 +12,7 @@
   
   <img src = "img/features_corr.PNG" width=10000px height=550></img>
   
-    <li> <h3>We look at the distribution of benign and malignant tumors before classification. (sınıflandırma öncesi iyi huylu ve kötü huylu tümör dağılımına göz atıyoruz)</h3> </li> </br>
+  <li> <h3>We look at the distribution of benign and malignant tumors before classification. (sınıflandırma öncesi iyi huylu ve kötü huylu tümör dağılımına göz atıyoruz)</h3> </li> </br>
   
   <img src = "img/scatter_PCA.PNG" width=500 height=550></img>
   <img src = "img/after_PCA.PNG" width=500 height=550></img>
