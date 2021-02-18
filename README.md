@@ -10,5 +10,5 @@
 
   <li> <h3>We take a look at our features (Özelliklerimize göz atıyoruz)</h3> </li> </br>
   
-  <img src = "img/features_corr.PNG" width=10000px height=450></img>
+  <img src = "img/features_corr.PNG" width=10000px height=550></img>
 </ul>
