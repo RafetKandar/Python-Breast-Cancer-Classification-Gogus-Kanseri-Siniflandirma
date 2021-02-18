@@ -5,4 +5,4 @@
 
 <h4>Benign and Malignant tumor (iyi huylu ve kötü huylu tümör)</h4>
 
-<img src = "img/Malignant_or_Benign.PNG" width=100 height=450></img>
+<img src = "img/Malignant_or_Benign.PNG" width=500 height=450></img>
