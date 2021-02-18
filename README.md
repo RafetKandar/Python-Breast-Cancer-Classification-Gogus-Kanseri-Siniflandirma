@@ -8,4 +8,7 @@
 
 <img src = "img/Malignant_or_Benign.PNG" width=500 height=450></img>
 
+  <li> <h3>We take a look at our features (Özelliklerimize göz atıyoruz)</h3> </li> </br>
+  
+  <img src = "img/Malignant_or_Benign.PNG" width=500 height=450></img>
 </ul>
